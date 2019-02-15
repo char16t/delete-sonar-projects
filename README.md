@@ -1,6 +1,6 @@
 # delete-sonar-projects
 
-Simple stupid scripts to fast delete from your Sonar 4.x and 7.x projects by list.
+Simple stupid scripts to fast delete projects from your Sonar 4.x and 7.x by list.
 
 ## Problem
 
